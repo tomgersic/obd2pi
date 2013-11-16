@@ -1,0 +1,22 @@
+{ mode: '43',
+  name: 'requestdtc',
+  value: { errors: [ 'P0444', '-', '-' ] } }
+{ mode: '41', pid: '0D', name: 'vss', value: 0 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 715 }
+{ mode: '41', pid: '05', name: 'temp', value: 60 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 5.46875 }
+{ mode: '43',
+  name: 'requestdtc',
+  value: { errors: [ 'P0444', '-', '-' ] } }
+{ mode: '41', pid: '0D', name: 'vss', value: 0 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 714 }
+{ mode: '41', pid: '05', name: 'temp', value: 62 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 5.078125 }
+{ mode: '43',
+  name: 'requestdtc',
+  value: { errors: [ 'P0444', '-', '-' ] } }
+{ mode: '41', pid: '0D', name: 'vss', value: 0 }
+{ mode: '41', pid: '0C', name: 'rpm', value: 715 }
+{ mode: '41', pid: '05', name: 'temp', value: 63 }
+{ mode: '41', pid: '04', name: 'load_pct', value: 4.6875 }
+
