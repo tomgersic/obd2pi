@@ -36,7 +36,7 @@ var vinNumber = "JF1BJ673XPH968228";
 serialOBDReader.on('dataReceived', function (data) {
     console.log(data);
     //don't log empty responses or responses to commands that are just "OK"
-    if(data != null && !_.isEmpty(data) && data.value != null && data.value != 'OK' data.value != '?') {
+    if(data != null && !_.isEmpty(data) && data.value != null && data.value != 'OK' && data.value != '?') {
         logMessage(data);
     }
 	else {
